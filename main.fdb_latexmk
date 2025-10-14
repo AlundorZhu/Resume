@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1760475211.45662 "/Users/ziqiangzhu/Documents/Resume/main.tex" "main.pdf" "main" 1760475212.00285 0
-  "/Users/ziqiangzhu/Documents/Resume/main.tex" 1760475211.35851 14658 719d44e57ded462a58caadc632db4ce7 ""
+["pdflatex"] 1760475973.61593 "/Users/ziqiangzhu/Documents/Resume/main.tex" "main.pdf" "main" 1760475974.1494 0
+  "/Users/ziqiangzhu/Documents/Resume/main.tex" 1760475973.42426 14809 171c54769296fe808830454b9a2ce47e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -120,8 +120,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1759201988 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1760475211.95834 2090 26fe50e46967fd15518677232ac2847c "pdflatex"
-  "main.tex" 1760475211.35851 14658 719d44e57ded462a58caadc632db4ce7 ""
+  "main.aux" 1760475974.10407 2090 713eb67dfdc26e8715fadb3327f3d5ae "pdflatex"
+  "main.tex" 1760475973.42426 14809 171c54769296fe808830454b9a2ce47e ""
   (generated)
   "main.aux"
   "main.log"
