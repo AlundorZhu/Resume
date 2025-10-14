@@ -1,9 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1760472651.44835 "/Users/ziqiangzhu/Documents/Resume/main.tex" "main.pdf" "main" 1760472651.97914 0
-  "/Users/ziqiangzhu/Documents/Resume/main.tex" 1760472651.26455 14393 aca538d40dfef5d98fc076ad14fa921d ""
+["pdflatex"] 1760474155.47185 "/Users/ziqiangzhu/Documents/Resume/main.tex" "main.pdf" "main" 1760474156.01177 0
+  "/Users/ziqiangzhu/Documents/Resume/main.tex" 1760474155.2807 14566 5854338a1416502397e60492cd452a4f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/bitstrea/charter/bchb8r.tfm" 1136768653 5184 4fd08a9613e75c1da82714d79cf8b4f1 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/bitstrea/charter/bchb8t.tfm" 1136768653 7436 84dcb1fa28471725ae91386499aed8eb ""
@@ -32,6 +33,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb" 1136849748 35229 7f969820a9c1085027a23beb06f6f457 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb" 1136849748 34869 539b6fed90ef630e9049bc13079bc598 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb" 1254269338 30388 702fae6a5f0e6e9c48a1d872b442ffcf ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb" 1255129361 119235 f35b44530a1d90eb90fe15d9cba67ea0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb" 1254269338 27863 09ce3735688ffde955e72da27c95b61a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy9.pfb" 1254269338 27835 16c2fa83351d4ef8cf5aebfab8a44bc1 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/vf/bitstrea/charter/bchb8t.vf" 1136768653 2348 8d5673a28b31b0de9aa581c30f65dd1e ""
@@ -118,8 +120,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1759201988 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1760472651.93839 2090 4e29b7137bf7f09d50d275bd0a42bcc4 "pdflatex"
-  "main.tex" 1760472651.26455 14393 aca538d40dfef5d98fc076ad14fa921d ""
+  "main.aux" 1760474155.96743 2090 04a0abbe02b8a8a85101ce231b8b4516 "pdflatex"
+  "main.tex" 1760474155.2807 14566 5854338a1416502397e60492cd452a4f ""
   (generated)
   "main.aux"
   "main.log"

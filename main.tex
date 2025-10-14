@@ -23,7 +23,8 @@
     pdfauthor={John Doe},
     pdfcreator={LaTeX with RenderCV},
     colorlinks=true,
-    urlcolor=primaryColor
+    urlcolor=primaryColor,
+    linkcolor=primaryColor
 ]{hyperref} % for links, metadata and bookmarks
 \usepackage[pscoord]{eso-pic} % for floating text on the page
 \usepackage{calc} % for calculating lengths
@@ -265,8 +266,8 @@
             \begin{highlights}
                 \item Collected and curated 150k+ labeled images and developed a semi-automatic labeler (SAM2 + OpenCV + Tkinter) that largely reduced manual labeling time.
                 \item Implemented keypoint detection (PyTorch/Ultralytics) and object detection (TensorFlow/Keras) pipelines; achieved strong performance on test set after data augmentation and hyperparameter tuning.
-                \item Designed and validated an algorithm for real-time clinical test analysis, reaching $>$99\% agreement with physician assessments on rehabilitation tasks.
-                \item Extracted fine-grained motion features beyond human perceptual limits, enabling deeper insights into stroke rehabilitation and recovery patterns. (see \ref{pub:markerless-motion-capture}). 
+                \item Designed a real-time clinical assessment algorithm with $>99\%$ agreement versus physician scoring on Box-and-Blocks task; inference latency $<100ms$ on iPhone (CoreML optimized).
+                \item Extracted fine-grained motion features beyond human perceptual limits, enabling deeper insights into stroke rehabilitation and recovery patterns. (see \hyperref[pub:markerless-motion-capture]{Publications: Markerlesss Motion Capture}). 
                 \item Currently implementing the algorithm on mobile devices for real-time use.  \href{https://github.com/AlundorZhu/CMORE-app}{\textbf{IOS demo app}} in progress
             \end{highlights}
         \end{onecolentry}
@@ -282,7 +283,7 @@
         \begin{onecolentry}
             \begin{highlights}
                 \item Created and graded assignments, held office hours, and supported students with course material.
-                \item Developed auto grader with clear test message
+                \item Developed autograder(Python + Logisim) that provides clear error messages.
                 \item Help improve the course by leveraging Professor's learning object and students' feedback
 
             \end{highlights}
@@ -364,8 +365,8 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item To improve the efficiency of labeling custom dataset. I Developed a video labeler that with a single click tracks the object through the video and export bounding box for each frame in standard format.  
-                \item Tools Used: Python, SAM2, Tkinter, Image processing, Segmentation, COCO Format. 
+                \item Built a video labeling tool (Python, Tkinter, SAM2) that performs one-click object tracking and exports COCO-format bounding boxes; cut labeling time per video by hours.  
+                \item Tools Used: Python, SAM2, Tkinter, OpenCV for Image processing and Segmentation, COCO Format for exported datasets. 
             \end{highlights}
         \end{onecolentry}
 
@@ -380,7 +381,7 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item To Demostrate the real-time stroke assessment algorithm ability on edge device, Currently developing a mobile app using face/hand/box/blocks detection to count number of blocks transferred during Box and Block Test. 
+                \item Developing CMORE iOS demo (Swift, Vision, CoreML) for on-device Box-and-Blocks detection and counting; prototype achieves no frame drop running at 120fps on iPhone 15 Pro.
                 \item Tools Used: Swift, Vision, CoreML
             \end{highlights}
         \end{onecolentry}
@@ -396,7 +397,7 @@
         \vspace{0.10 cm}
         \begin{onecolentry}
             \begin{highlights}
-                \item Built a UNIX-style file system that supports Amazon S3 services
+                \item Operating System Project to learn about file system and threads. Built a UNIX-style file system that supports Amazon S3 services: put, get, delete
                 \item Tools Used: C++, pthread, exec family
             \end{highlights}
         \end{onecolentry}
